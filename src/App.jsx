@@ -28,7 +28,7 @@ function IntroSection() {
       <a className={articleStyles["link"]} href="https://www.techupth.com/" target="blank">
         techupth.com
       </a>
-      {/* {getCurrentDateTime()} */}
+      {getCurrentDateTime()}
     </div>
   );
 }
